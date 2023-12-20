@@ -1,5 +1,5 @@
 vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,mastery_points,parent_guids,ratings,,,,,,,,,
-ML4GA2,group,Assignment 2,A Graph Convolution Network,ML4GA2,,,active,,,,,,,,,,,,
+ML4GA2,group,Assignment 2,A Graph Convolution Network,ML4GA2,,,active,,,,,,,,,,
 ML4GA21,outcome,A21,The student can successfully write a procedure to vectorize a graph,ML4GA21,average,,active,8,ML4GA2,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
 ML4GA22,outcome,A22,The student can successfully write a procedure to partition the dataset into disjoint splits,ML4GA22,average,,active,8,ML4GA2,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
 ML4GA23,outcome,A23,The student can successfully implement a graph convolution network,ML4GA23,average,,active,8,ML4GA2,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
