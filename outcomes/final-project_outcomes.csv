@@ -1,0 +1,8 @@
+vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,mastery_points,parent_guids,ratings,,,,,,,,,
+ML4GSR,group,Scientific Project,Extending and documenting a method from a scientific article,ML4GSR,,,active,,,,,,,,,,,,
+ML4GSR1,outcome,SR1,The student can obtain a deep understanding of the theory and methods described in a scientific article,ML4GSR1,average,,active,8,ML4GSR,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
+ML4GSR2,outcome,SR2,The student can successfully identify a sensible extension to the research described in a scientific article,ML4GSR2,average,,active,16,ML4GSR,20,Excellent,16,Good,12,Sufficient,8,Below Average,4,Poor,1,Missing
+ML4GSR3,outcome,SR3,The student can successfully design and implement an extension to the research described in a scientific article,ML4GSR3,average,,active,32,ML4GSR,40,Excellent,32,Good,24,Sufficient,16,Below Average,4,Poor,1,Missing
+ML4GSR4,outcome,SR4,The student can effectively evaluate a machine learning method and compare it with related work,ML4GSR4,average,,active,16,ML4GSR,20,Excellent,16,Good,12,Sufficient,8,Below Average,4,Poor,1,Missing
+ML4GSR5,outcome,SR5,The student can effectively and scientifically document the whole life cycle of a machine learning research,ML4GSR5,average,,active,8,ML4GSR,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
+

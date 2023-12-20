@@ -1,0 +1,8 @@
+vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,mastery_points,parent_guids,ratings,,,,,,,,,
+ML4GP,group,Scientific Presentation,A presentation and discussion about a selected scientific article,ML4GP,,,active,,,,,,,,,,,,
+ML4GP1,outcome,SP1,The student can successfully identify and extract the key point from a scientific article,ML4GP1,average,,active,8,ML4GP,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
+ML4GP2,outcome,SP2,The student can effectively condense a scientific article into a short presentation,ML4GP2,average,,active,8,ML4GP,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
+ML4GP3,outcome,SP3,The student can effectively communicate the key points of a scientific article to fellow peers,ML4GP3,average,,active,8,ML4GP,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
+ML4GP4,outcome,SP4,The student can effectively act as an expert on the content of a read scientific article,ML4GP4,average,,active,8,ML4GP,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
+ML4GP5,outcome,SP5,The student can critically reflect on the key points of a scientific article in the broader scientific context,ML4GP5,average,,active,8,ML4GP,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
+
