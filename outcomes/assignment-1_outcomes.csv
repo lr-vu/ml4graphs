@@ -1,5 +1,5 @@
-vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,mastery_points,parent_guids,ratings,,,,,,,,,
-ML4GA1,group,Assignment 1,A Bilinear Triple Scoring Model,ML4GA1,,,active,,,,,,,,,,
+vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,mastery_points,parent_guids,ratings,,,,,,,,,,,
+ML4GA1,group,Assignment 1,A Bilinear Triple Scoring Model,ML4GA1,,,active,,,,,,,,,,,,,,
 ML4GA11,outcome,A11,The student can successfully write a procedure to encode a knowledge graph using indices,ML4GA11,average,,active,8,ML4GA1,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
 ML4GA12,outcome,A12,The student can successfully implement a simple triple scoring model,ML4GA12,average,,active,8,ML4GA1,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
 ML4GA13,outcome,A13,The student can successfully write a procedure to perform negative sampling,ML4GA13,average,,active,8,ML4GA1,10,Excellent,8,Good,6,Sufficient,4,Below Average,2,Poor,1,Missing
